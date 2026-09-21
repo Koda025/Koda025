@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working with the Security area.
+- 🔭 I am currently working in the Security field.
 - 🌱 I’m currently learning LLM and IA.
 - 👯 I’m looking to collaborate on everything that could give me knowledge.
 - 🤔 I’m looking for help with IA.
